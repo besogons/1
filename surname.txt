@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ivan iskorostinskiiasd
+=======
+ivan iskorostinskiiasd
+>>>>>>> newdev
